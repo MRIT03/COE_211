@@ -18,7 +18,7 @@ public class AdvancedWeek { // fun fact between all the greek gods, Hades might 
 
     // printing out the days
     public static void printDays() {
-        System.out.println(day_1_index + ": " + day_1 + ", \n"
+        System.out.println("The advanced days of the week are: \n" + day_1_index + ": " + day_1 + ", \n"
                 +day_2_index + ": " + day_2+ ", \n"
                 +day_3_index + ": " + day_3 + ", \n"
                 +day_4_index + ": " + day_4 + ", \n"
